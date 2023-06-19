@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.douban.com/simple"
+trusted_host = "pypi.douban.com"
+verify_ssl = true
+name = "douban"
+
+[packages]
+matplotlib = "==3.2.0"
+numpy = "==1.19.5"
+opencv-python = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"

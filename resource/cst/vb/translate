@@ -1,0 +1,14 @@
+With Transform
+     .Reset
+     .Name "{$name}"
+     .Vector "{$v1}", "{$v2}", "{$v3}"
+     .UsePickedPoints "False"
+     .InvertPickedPoints "False"
+     .MultipleObjects "{$copy}"
+     .GroupObjects "{$merge}"
+     .Repetitions "1"
+     .MultipleSelection "False"
+     .Destination ""
+     .Material ""
+     .Transform "Shape", "Translate"
+End With

@@ -1,0 +1,12 @@
+With Transform
+     .Reset
+     .Name "{$name}"
+     .Origin "Free"
+     .Center "{$c1}", "{$c2}", "{$c3}"
+     .PlaneNormal "{$p1}", "{$p2}", "{$p3}"
+     .MultipleObjects "{$copy}"
+     .GroupObjects "{$merge}"
+     .Repetitions "1"
+     .MultipleSelection "False"
+     .Transform "Shape", "Mirror"
+End With

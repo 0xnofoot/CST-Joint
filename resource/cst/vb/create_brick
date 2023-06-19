@@ -1,0 +1,10 @@
+With Brick
+     .Reset
+     .Name "{$name}"
+     .Component "{$component}"
+     .Material "{$material}"
+     .Xrange "{$x1_range}", "{$x2_range}"
+     .Yrange "{$y1_range}", "{$y2_range}"
+     .Zrange "{$z1_range}", "{$z2_range}"
+     .Create
+End With

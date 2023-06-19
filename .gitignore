@@ -1,0 +1,7 @@
+.idea
+.venv
+CST_Project
+output
+data
+test
+Pipfile.lock

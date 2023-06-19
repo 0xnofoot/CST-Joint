@@ -1,0 +1,14 @@
+With Transform
+     .Reset
+     .Name "{$name}"
+     .Origin "Free"
+     .Center "{$c1}", "{$c2}", "{$c3}"
+     .Angle "{$a1}", "{$a2}", "{$a3}"
+     .MultipleObjects "{$copy}"
+     .GroupObjects "{$merge}"
+     .Repetitions "1"
+     .MultipleSelection "False"
+     .Destination ""
+     .Material ""
+     .Transform "Shape", "Rotate"
+End With
